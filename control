@@ -1,0 +1,10 @@
+Package: com.easy-z.animore
+Name: Animore
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Bring the iOS 12.2 Animojis to iOS 12.0-12.1.2. 
+Maintainer: Easy-Z
+Author: Easy-Z
+Section: Tweaks
+Depiction: https://www.idevicehacked.com/depictions/?p=com.easy-z.animore
