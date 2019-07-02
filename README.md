@@ -7,7 +7,9 @@ Get it from [Repo](https://cydia.saurik.com/api/share#?source=https://idevicehac
 
 Made by [Easy-Z](https://twitter.com/_easy_z_)
 
-<img src="https://imgur.com/sfNAmNR">
+<p align='center'>
+ <a href=""><img width="182px" height="323.75px" src="https://imgur.com/sfNAmNR"></a>
+</p>
 
 # Changelog
 * Initial Release.
