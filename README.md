@@ -7,5 +7,7 @@ Get it from [Repo](https://cydia.saurik.com/api/share#?source=https://idevicehac
 
 Made by [Easy-Z](https://twitter.com/_easy_z_)
 
+<img src="https://imgur.com/sfNAmNR">
+
 # Changelog
 * Initial Release.
